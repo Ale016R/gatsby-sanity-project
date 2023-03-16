@@ -1,0 +1,3 @@
+[submodule "path/to/submodule"] 
+   path = studio
+   url = git://https://github.com/Ale016R/studio/
